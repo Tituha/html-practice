@@ -1,0 +1,7 @@
+.header-nav_title {
+    color: #ff845e;
+    padding: 10px;
+    border: 2px solid pink;
+    margin: 20px;
+    font-family: var(--title-font-family);
+}
